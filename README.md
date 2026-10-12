@@ -1,6 +1,6 @@
 # RMStudio releases
 
-Release downloads for **RMStudio**, a Blender 5.2 add-on for animating VRChat and mixed-rig avatars.
+Release downloads for **RMStudio**, a Blender 5.2 add-on for animating mixed-rig avatars.
 
 ## Install
 1. Download `rmstudio-<version>.zip` from the latest [release](https://github.com/DrMitchel/rmstudio-releases/releases/latest).
